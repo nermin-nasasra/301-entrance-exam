@@ -1,0 +1,34 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    
+}
+
+#p1{
+    text-align: center;
+    color: white;
+    
+}
+header{
+    background-color: #6d8adbc7;
+}
+
+#form {
+    
+    width: 300px;
+    height: 300px;
+    background-color: #dae4ff;
+    padding: 100px;
+    margin-top: 80px;
+    margin-left: 50px;
+ 
+}
+#submit{
+    background-color: #6d8adbc7;
+}
+body{
+    background-color: #eee;
+}
+#submit{
+margin-left: 120px ;
+}
